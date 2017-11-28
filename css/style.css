@@ -1,0 +1,14 @@
+body {
+	background-color: #EEE;
+	margin: 40px 40px;
+	padding: 30px;
+	border: 2px dotted green;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+button {
+	margin: 3px;
+}
